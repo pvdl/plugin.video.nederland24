@@ -60,8 +60,8 @@ CHANNELS = [
   ["NPO Radio 2","npo_radio2.png","visualradio/radio2/radio2.isml/radio2.m3u8","Informatie, actualiteit en het beste uit vijftig jaar popmuziek. Een toegankelijke zender met veel aandacht voor het Nederlandse lied, kleinkunst en cabaret."],
   ["NPO 3FM","npo_3fm.png","visualradio/3fm/3fm.isml/3fm.m3u8","Op NPO 3FM staat de liefde voor muziek centraal. Samen met de luisteraar vindt NPO 3FM nieuwe muziek, nieuw Nederlands poptalent en jong radiotalent. Je komt onze dj's vaak tegen op festivals en concerten."],
   ["NPO Radio 4","npo_radio4.png","visualradio/radio4/radio4.isml/radio4.m3u8","De klassieke muziekzender voor zowel de ervaren als de nieuwe liefhebber. Naast de mooiste klassieke muziek, brengt NPO Radio 4 jaarlijks ongeveer twaalfhonderd concerten uit 's werelds beroemdste concertzalen. Waaronder drie eigen concertseries."],
-  ["NPO Radio 6","npo_radio6.png","visualradio/radio6/radio6.isml/radio6.m3u8","De Soul en Jazz zender, met muziek van Miles Davis tot Caro Emerald. Onze dj’s en muzikanten nemen je mee op een nationale en internationale ontdekkingstocht. Daarnaast doet NPO Radio 6 jaarlijks verslag van festivals als North Sea Jazz."],
-  ["NPO FunX","npo_funx.png","visualradio/funx/funx.isml/funx.m3u8","FunX richt zich op alle jongeren tussen 15 en 35 jaar. Muziekstijlen die op FunX te horen zijn zijn urban, latin, reggae en dancehall, oriental, Turkpop, farsipop, banghra, rai, Frans-Afrikaanse hiphop, Mandopop en andere crossoverstijlen."]
+  ["NPO Radio 6","npo_radio6.png","visualradio/radio6/radio6.isml/radio6.m3u8","De Soul en Jazz zender, met muziek van Miles Davis tot Caro Emerald. Onze dj's en muzikanten nemen je mee op een nationale en internationale ontdekkingstocht. Daarnaast doet NPO Radio 6 jaarlijks verslag van festivals als North Sea Jazz."],
+  ["NPO FunX","npo_funx.png","visualradio/funx/funx.isml/funx.m3u8","FunX richt zich op alle jongeren tussen 15 en 35 jaar. Muziekstijlen die op FunX te horen zijn zijn urban, latin, reggae en dancehall, oriental, Turkpop, farsipop, banghra, rai, Frans-Afrikaanse hiphop, Mandopop en andere crossoverstijlen."],
 ]
 
 ###
