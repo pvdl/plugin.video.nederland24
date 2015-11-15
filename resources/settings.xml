@@ -13,6 +13,12 @@
         <setting id="NPO 1" label="30111" type="bool" default="true" />
         <setting id="NPO 2" label="30112" type="bool" default="true" />
         <setting id="NPO 3" label="30113" type="bool" default="true" />
+        <setting id="NPO 1 TT888" label="30121" type="bool" default="true" />
+        <setting id="NPO 2 TT888" label="30122" type="bool" default="true" />
+        <setting id="NPO 3 TT888" label="30123" type="bool" default="true" />
+        <setting id="NPO 1 Event" label="30124" type="bool" default="false" />
+        <setting id="NPO 2 Event" label="30125" type="bool" default="false" />
+        <setting id="NPO 3 Event" label="30126" type="bool" default="flase" />
         <setting id="NPO Radio 1" label="30115" type="bool" default="false" />
         <setting id="NPO Radio 2" label="30116" type="bool" default="false" />
         <setting id="NPO 3FM" label="30117" type="bool" default="false" />
